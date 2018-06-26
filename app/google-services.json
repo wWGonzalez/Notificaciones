@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "186477647632",
+    "firebase_url": "https://norificaciones-7a2c9.firebaseio.com",
+    "project_id": "norificaciones-7a2c9",
+    "storage_bucket": "norificaciones-7a2c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186477647632:android:9e4e107b3ea7112f",
+        "android_client_info": {
+          "package_name": "com.example.wer.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186477647632-3i0o6707r71snbi5nanm5r6utbaduvts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtnHLrPW43CDBaf-ydAMv8ZWvoPEZZ2x8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
